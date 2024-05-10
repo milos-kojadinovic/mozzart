@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="drawing">Извлачење\t</string>
+    <string name="time_left">Преостало време</string>
+    <string name="expired">ИСТЕКЛО</string>
+    <string name="title">" 🇬🇷 Грчки кино, Коло: %1$s"</string>
+    <string name="draw_time">Време извлачења је: %1$s</string>
+    <string name="chosen_numbers">Изабрани бројеви су:</string>
+    <string name="max_number_selected">Максимално изабраних бројева је 15.</string>
+    <string name="time_expired_for_game">Коло је затворено, изаберите неко друго коло</string>
+    <string name="watch">Прати уживо</string>
+    <string name="draw_number">Извлачење број: %1$s</string>
+    <string name="finished_draws">Претходна извлачења:</string>
+</resources>
